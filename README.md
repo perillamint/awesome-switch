@@ -56,3 +56,7 @@ To be done.
 
 #### Linux patches
 * [perillamint's SDHCI bus speed fix](https://github.com/perillamint/switch-linux/tree/sdhci-bus-fix)
+
+#### Linux tips
+* [How to dump Switch eMMC using Linux](https://gbatemp.net/threads/tutorial-how-to-dump-switch-nand-using-linux.502201/)
+* [udev rule for touchscreen conversion matrix](https://github.com/fail0verflow/shofel2/blob/master/configs/switch-ts-calibration.rules) (Copy this into `/etc/udev/rules.d/` when your touchscreen acts in rotated way)
