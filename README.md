@@ -4,6 +4,8 @@
 > A curated list of awesome things related to Nintendo Switch hacking
 
 * [Resources](#resources)
+  * [Writeups](#writeups)
+  * [Hardmod](#hardmod)
 * [Exploits](#exploits)
   * [Bootrom](#bootrom)
   * [Webkit](#webkit)
@@ -15,9 +17,15 @@
   * [Linux](#linux)
 
 ## Resources
+### Writeups
 * [ShofEL2, a Tegra X1 and Nintendo Switch exploit](https://fail0verflow.com/blog/2018/shofel2/)
 * [Vulnerability Disclosure: Fusée Gelée](https://misc.ktemkin.com/fusee_gelee_nvidia.pdf)
 * [FAQ: Fusée Gelée](http://www.ktemkin.com/faq-fusee-gelee/)
+
+### Hardmod
+* [How to mod Joy-con to haxcon](https://imgur.com/gallery/it5eZvO)
+* [SwitchX Pro (3D print jig by F0F)](https://github.com/fail0verflow/shofel2/tree/master/rcm-jig)
+* [3D printt jig with paperclip](https://www.thingiverse.com/thing:2877484)
 
 ## Exploits
 ### Bootrom
