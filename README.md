@@ -33,7 +33,7 @@
 * [shofEL2](https://github.com/fail0verflow/shofel2)
 
 ### Webkit
-To be done.
+* [PegaSwitch](https://github.com/reswitched/pegaswitch)
 
 ## Exploit payloads
 ### Fusée Gelée
