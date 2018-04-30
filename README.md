@@ -37,7 +37,7 @@
 
 ## Exploit payloads
 ### Fusée Gelée
-* [Example payload](https://github.com/ktemkin/Atmosphere/tree/poc_nvidia) [precompiled](http://misc.ktemkin.com/fusee.bin)
+* [Example payload](https://github.com/ktemkin/Atmosphere/tree/poc_nvidia) ([precompiled](http://misc.ktemkin.com/fusee.bin))
 * [Moonflower](https://github.com/moriczgergo/moonflower) (eMMC dumper)
 * [BIS key dumper](https://github.com/rajkosto/biskeydump)
 
