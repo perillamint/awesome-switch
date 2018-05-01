@@ -26,6 +26,7 @@
 * [How to mod Joy-con to haxcon](https://imgur.com/gallery/it5eZvO)
 * [SwitchX Pro (3D print jig by F0F)](https://github.com/fail0verflow/shofel2/tree/master/rcm-jig)
 * [3D printt jig with paperclip](https://www.thingiverse.com/thing:2877484)
+* [The ultimate list of mods to enter RCM](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/)
 
 ## Exploits
 ### Bootrom
