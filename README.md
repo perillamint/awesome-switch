@@ -41,6 +41,7 @@
 * [Example payload](https://github.com/ktemkin/Atmosphere/tree/poc_nvidia) ([precompiled](http://misc.ktemkin.com/fusee.bin))
 * [Moonflower](https://github.com/moriczgergo/moonflower) (eMMC dumper)
 * [BIS key dumper](https://github.com/rajkosto/biskeydump)
+* [Hekate IPL 5.0.x](https://github.com/Jan4V/hekate-ipl-50x)
 
 ### shofEL2
 * [cbfs](https://github.com/fail0verflow/shofel2/tree/master/exploit)
@@ -54,6 +55,7 @@
 * [f0f's u-boot](https://github.com/fail0verflow/switch-u-boot)
 * [shinyquagsire23's u-boot](https://github.com/shinyquagsire23/u-boot)
 * [switch-linux](https://github.com/fail0verflow/switch-linux/)
+* [switch-linux 4.17 (and maintained)](https://github.com/tardyp/switch-linux/tree/rebase_4.17)
 
 #### Linux patches
 * [perillamint's SDHCI bus speed fix](https://github.com/perillamint/switch-linux/tree/sdhci-bus-fix)
