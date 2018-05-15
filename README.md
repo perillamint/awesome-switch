@@ -41,6 +41,7 @@
 * [Example payload](https://github.com/ktemkin/Atmosphere/tree/poc_nvidia) ([precompiled](http://misc.ktemkin.com/fusee.bin))
 * [Moonflower](https://github.com/moriczgergo/moonflower) (eMMC dumper)
 * [BIS key dumper](https://github.com/rajkosto/biskeydump)
+* [Hekate IPL](https://github.com/nwert/hekate)
 * [Hekate IPL 5.0.x](https://github.com/Jan4V/hekate-ipl-50x)
 
 ### shofEL2
