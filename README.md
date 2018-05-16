@@ -18,9 +18,14 @@
 
 ## Resources
 ### Writeups
+#### CVE-2018-6242
+* [MITRE Entry](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-6242)
 * [ShofEL2, a Tegra X1 and Nintendo Switch exploit](https://fail0verflow.com/blog/2018/shofel2/)
 * [Vulnerability Disclosure: Fusée Gelée](https://misc.ktemkin.com/fusee_gelee_nvidia.pdf)
 * [FAQ: Fusée Gelée](http://www.ktemkin.com/faq-fusee-gelee/)
+
+#### Webkit
+TODO
 
 ### Hardmod
 * [How to mod Joy-con to haxcon](https://imgur.com/gallery/it5eZvO)
