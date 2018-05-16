@@ -28,6 +28,9 @@
 * [3D printt jig with paperclip](https://www.thingiverse.com/thing:2877484)
 * [The ultimate list of mods to enter RCM](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/)
 
+### Hardware tools
+* [HACk-eMMC](https://github.com/hedgeberg/HACk-EMMC) - Nintendo Switch eMMC breakout board
+
 ## Exploits
 ### Bootrom
 * [Fusée Gelée](https://github.com/reswitched/fusee-launcher)
