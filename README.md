@@ -42,7 +42,6 @@
 * [Moonflower](https://github.com/moriczgergo/moonflower) (eMMC dumper)
 * [BIS key dumper](https://github.com/rajkosto/biskeydump)
 * [Hekate IPL](https://github.com/nwert/hekate)
-* [Hekate IPL 5.0.x](https://github.com/Jan4V/hekate-ipl-50x)
 
 ### shofEL2
 * [cbfs](https://github.com/fail0verflow/shofel2/tree/master/exploit)
