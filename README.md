@@ -13,6 +13,7 @@
   * [Fusée Gelée](#fusee-gelee)
   * [shofEL2](#shofel2)
 * [CFW](#cfw)
+* [Tools](#tools)
 * [Other OS](#other-os)
   * [Linux](#linux)
 
@@ -56,6 +57,11 @@ TODO
 
 ## CFW
 * [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere/)
+
+## Tools
+* [hactool](https://github.com/SciresM/hactool)
+* [switch\_decrypt](https://github.com/MCMrARM/switch_decrypt)
+* [switchfs](https://github.com/ihaveamac/switchfs)
 
 ## Other OS
 ### Linux
