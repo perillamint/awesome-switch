@@ -63,6 +63,7 @@ TODO
 * [hactool](https://github.com/SciresM/hactool)
 * [switch\_decrypt](https://github.com/MCMrARM/switch_decrypt)
 * [switchfs](https://github.com/ihaveamac/switchfs)
+* [XJoy (use Joy-Cons as a virtual Xbox 360 controller in PC games)](https://github.com/sam0x17/XJoy)
 
 ## Other OS
 ### Linux
